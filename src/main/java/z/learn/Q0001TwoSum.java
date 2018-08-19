@@ -13,6 +13,8 @@ import java.util.Map;
  * 所以返回 [0, 1]
  * <p>
  * 利用HashMap数据结构来加快查找
+ * <p>
+ * https://leetcode-cn.com/problems/two-sum/solution/
  */
 public class Q0001TwoSum {
 
